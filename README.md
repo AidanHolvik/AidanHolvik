@@ -1,5 +1,5 @@
 Interests:
-  - Machine Learning AI
+  - AI
     - Especially Neural Networks and other deep learning AI
   - Quantum Physics
     - Especially Quantum Computing
