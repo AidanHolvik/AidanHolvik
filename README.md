@@ -6,8 +6,7 @@ Interests:
 
 Potential Future Projects:
   - Learning to code in Q#, or some other quantum programming language
-  - Improving my understanding of artificial neural networks
-  - Making a mod for a game which I play
+  - Making a mod for a video game which I play
 
 Goals:
   - Finish University
