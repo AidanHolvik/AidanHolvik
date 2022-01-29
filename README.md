@@ -3,6 +3,8 @@ Interests:
     - Especially Neural Networks and other deep learning AI
   - Quantum Computing
   - Video Games
+  - 3D graphics
+  - Robotics
 
 Potential Future Projects:
   - Learning to code in Q#, or some other quantum programming language
